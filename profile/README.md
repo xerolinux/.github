@@ -11,6 +11,6 @@
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/KDE-Plasma-blue?style=for-the-badge&logo=appveyor" /></a>
 </div>
 
-### :bar_chart: My Stats
+### :bar_chart: Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=xerolinux&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=xerolinux&" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=xerolinux&show_icons=true&&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=xerolinux&" width="49%" />
