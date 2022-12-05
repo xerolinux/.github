@@ -14,9 +14,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=techxero&show_icons=true&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=techxero&theme=nightowl" width="49%" />
 
-### :inbox_tray: How to reach us
-
 <div align="center">
+
+### :inbox_tray: Social Links
 	
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=for-the-badge)](https://youtube.com/@XeroLinux)
 [![Mastodon](https://img.shields.io/mastodon/follow/000305163?domain=https%3A%2F%2Ffosstodon.og&label=FOSS&logo=mastodon&logoColor=3d85c6&style=for-the-badge)](https://fosstodon.org/@TechXero)
