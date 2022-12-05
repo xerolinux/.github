@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![XeroLinux's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&show_icons=true&theme=nightowl width="49%")](https://github.com/anuraghazra/github-readme-stats) [![XeroLinux's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=techxero&include_orgs=true&show_icons=true&theme=nightowl width="49%")](https://github-readme-streak-stats.herokuapp.com/)
+[![XeroLinux's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&show_icons=true&theme=nightowl&width="49%")](https://github.com/anuraghazra/github-readme-stats) [![XeroLinux's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=techxero&include_orgs=true&show_icons=true&theme=nightowl width="49%")](https://github-readme-streak-stats.herokuapp.com/)
 
 </div>
 
