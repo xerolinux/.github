@@ -16,5 +16,5 @@
 
 ### :inbox_tray: How to reach us
 
-[![Mastodon](https://img.shields.io/mastodon/follow/000305163?domain=https%3A%2F%2Ffosstodon.og&label=Mastodon&logo=mastodon&style=for-the-badge)](https://fosstodon.org/@TechXero)
+[![Mastodon](https://img.shields.io/mastodon/follow/000305163?domain=https%3A%2F%2Ffosstodon.og&label=Fosstodon&logo=mastodon&logoColor=3d85c6&style=for-the-badge)](https://fosstodon.org/@TechXero)
 [![YouTube]([https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&style=for-the-badge](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&logo=youtube&style=for-the-badge))](https://youtube.com/@XeroLinux)
