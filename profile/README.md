@@ -13,4 +13,4 @@
 
 ### :bar_chart: My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=XeroLinux&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=XeroLinux&" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=xerolinux&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=xerolinux&" width="49%" />
