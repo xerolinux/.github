@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero)](https://github.com/anuraghazra/github-readme-stats)
+[![XeroLinux's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
