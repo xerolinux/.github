@@ -23,3 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=techxero&show_icons=true&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=techxero&theme=nightowl" width="49%" />
 
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
