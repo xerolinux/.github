@@ -10,3 +10,7 @@
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/KDE-Plasma-blue?style=for-the-badge&logo=appveyor" /></a>
 </div>
+
+### :bar_chart: My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=XeroLinux&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=XeroLinux&" width="49%" />
