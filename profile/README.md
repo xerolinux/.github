@@ -19,7 +19,7 @@
 ### :inbox_tray: Social Links
 	
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=for-the-badge)](https://youtube.com/@XeroLinux)
-[![Mastodon](https://img.shields.io/badge/FOSS-Follow%20Us-blue&label=FOSS&style=for-the-badge&logo=mastodon)](https://fosstodon.org/@TechXero)
+[![Mastodon](https://img.shields.io/badge/FOSS-Follow%20Us-blue&style=for-the-badge&logo=mastodon)](https://fosstodon.org/@TechXero)
 [![Discord](https://img.shields.io/badge/Discord-Follow%20Us-purple?style=for-the-badge&logo=discord)](https://discord.gg/Xg6T78ahtK)
 	
 </div>
