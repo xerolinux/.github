@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&include_orgs=true&show_icons=true&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?username=techxero&theme=nightowl" width="49%" />
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&include_orgs=true&show_icons=true&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=techxero&include_orgs=true&theme=nightowl" width="49%" />
 
 </div>
 
