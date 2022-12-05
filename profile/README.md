@@ -8,13 +8,13 @@
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=appveyor" /></a>
-</div>
+</div><br />
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=techxero&show_icons=true&theme=nightowl&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=techxero&theme=nightowl" width="49%" />
 
-</div>
+</div><br />
 
 <div align="center">
 
