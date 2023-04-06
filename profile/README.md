@@ -11,11 +11,10 @@
 </div><br />
 
 <div align="center">
-
+<img src="https://img.shields.io/liberapay/receives/DarkXero.svg?logo=liberapay"><br />
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=flat)](https://youtube.com/@XeroLinux)
 [![Mastodon](https://img.shields.io/mastodon/follow/000305163?color=6666FF&domain=https%3A%2F%2Ffosstodon.org&label=Fosstodon&logo=mastodon&style=flat)](https://fosstodon.org/@TechXero)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=flat)](https://discord.gg/Xg6T78ahtK)
-<img src="https://img.shields.io/liberapay/receives/DarkXero.svg?logo=liberapay">
 	
 </div>
 
