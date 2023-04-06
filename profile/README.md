@@ -22,7 +22,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&include_orgs=true&show_icons=true&theme=nightowl" width="49%" /><span style="display:inline-block;width:2%"></span>   <img src="https://github-readme-streak-stats.herokuapp.com?user=techxero&include_orgs=true&theme=nightowl&currStreakLabel=DD2727" width="49%" /><br />
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#6b3085', 'I2I4K55AA');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/I2I4K55AA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
 </div>
 
