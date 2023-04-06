@@ -15,14 +15,13 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=flat)](https://youtube.com/@XeroLinux)
 [![Mastodon](https://img.shields.io/mastodon/follow/000305163?color=6666FF&domain=https%3A%2F%2Ffosstodon.org&label=Fosstodon&logo=mastodon&style=flat)](https://fosstodon.org/@TechXero)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=flat)](https://discord.gg/Xg6T78ahtK)<br />
-<img src="https://img.shields.io/liberapay/receives/DarkXero.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/receives/DarkXero.svg?logo=liberapay"> // [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4K55AA)
 	
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&include_orgs=true&show_icons=true&theme=nightowl" width="49%" /><span style="display:inline-block;width:2%"></span>   <img src="https://github-readme-streak-stats.herokuapp.com?user=techxero&include_orgs=true&theme=nightowl&currStreakLabel=DD2727" width="49%" /><br />
-<a href='https://ko-fi.com/I2I4K55AA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=techxero&include_orgs=true&show_icons=true&theme=nightowl" width="49%" /><span style="display:inline-block;width:2%"></span>   <img src="https://github-readme-streak-stats.herokuapp.com?user=techxero&include_orgs=true&theme=nightowl&currStreakLabel=DD2727" width="49%" /> 
 
 </div>
 
