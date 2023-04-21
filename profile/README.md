@@ -18,7 +18,7 @@
 [![Mastodon](https://img.shields.io/mastodon/follow/000305163?color=6666FF&domain=https%3A%2F%2Ffosstodon.org&label=Fosstodon&logo=mastodon&style=flat)](https://fosstodon.org/@TechXero)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=flat)](https://discord.gg/Xg6T78ahtK)<br />
 <img src="https://img.shields.io/liberapay/receives/DarkXero.svg?logo=liberapay"><br /><br />
-![Goal](https://ko-fi.com/streamalerts/goaloverlay/sa_15ba9acd-650c-42b5-a225-c7a85489118a)
+[![Goal](https://ko-fi.com/streamalerts/goaloverlay/sa_15ba9acd-650c-42b5-a225-c7a85489118a)]
 	
 </div>
 
