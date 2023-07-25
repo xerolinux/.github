@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  	<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 	<a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=xerolinux&label=Page%20views&color=9D77BB&style=for-the-badge" alt="xerolinux"/>
