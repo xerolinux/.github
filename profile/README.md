@@ -11,8 +11,6 @@
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div><br />
 
-<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=xerolinux&label=Profile%20views&color=9D77BB&style=flat" alt="xerolinux"/></p>
-
 <div align="center">
 	
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4K55AA)<br /><br />
@@ -22,4 +20,4 @@
 	
 </div>
 
-
+<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=xerolinux&label=Page%20views&color=9D77BB&style=for-the-badge" alt="xerolinux"/></p>
