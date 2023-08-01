@@ -17,7 +17,7 @@
 
 ## .:: Support Us ::. <br />
 
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&&label=XeroLinux@Ko-Fi&logo=ko-fi&logoColor=white)
  ![GitHub Sponsors](https://img.shields.io/github/sponsors/XeroLinux?style=for-the-badge&logo=Github%20Sponsors&label=Github%20Sponsors)
 <br /><br />
 
