@@ -17,7 +17,9 @@
 ## .:: Support Us ::. <br />
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&&label=XeroLinux&logo=ko-fi&logoColor=white)](https://ko-fi.com/XeroLinux)
- [![GitHub Sponsors](https://img.shields.io/github/sponsors/XeroLinux?style=for-the-badge&logo=Github%20Sponsors&label=Sponsors)](https://github.com/sponsors/xerolinux)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/XeroLinux?style=for-the-badge&logo=Github%20Sponsors&label=Sponsors)](https://github.com/sponsors/xerolinux)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xerolinux)
+
 <br /><br />
 
 ## .:: Git Stats ::. <br />
