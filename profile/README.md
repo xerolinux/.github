@@ -8,8 +8,7 @@
 
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
-	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a><br /> <br />
-	<a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=xerolinux&label=Page%20views&color=774DFF&style=for-the-badge" alt="xerolinux"/> 	
+	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div>
 
 <div align="center">
@@ -28,4 +27,10 @@
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=social)](https://discord.gg/Xg6T78ahtK)<br />
 
 ![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
+</div><br />
+
+<div align="center">
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=xerolinux&label=Page%20views&color=774DFF&style=for-the-badge" alt="xerolinux"/> 	
+
 </div>
