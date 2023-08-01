@@ -20,8 +20,6 @@
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&label=XeroLinux&logo=patreon&logoColor=black)](https://patreon.com/xerolinux)
 <br />
 
-## .:: Git Stats ::. <br />
-
 ![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
 </div>
 
