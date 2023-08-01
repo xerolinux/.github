@@ -14,15 +14,16 @@
 </div><br />
 
 <div align="center">
-	
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)
+ 
 ![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
 
 </div>
 
 <div align="center">
 	
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)<br />
-### .:: Find us on Social ::.<br />
+## .:: Find us on Social ::.<br />
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=social)](https://youtube.com/@XeroLinux)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/110753070148975710?domain=https%3A%2F%2Ffosstodon.org&style=social&label=Fosstodon&color=774DFF)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=social)](https://discord.gg/Xg6T78ahtK)
