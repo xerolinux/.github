@@ -19,6 +19,8 @@
 
 </div>
 
+<h3 align="center">.:: Find us on Social ::.</h3>
+
 <div align="center">
 	
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)<br /><br />
