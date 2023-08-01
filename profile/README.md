@@ -15,8 +15,8 @@
 
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)
- ![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)<br />
+![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
 
 </div>
 
