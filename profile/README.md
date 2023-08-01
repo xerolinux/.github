@@ -16,7 +16,7 @@
 
 <div align="center">
 	
-![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroLinux&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroLinux&theme=github_dark)
+![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
 
 </div>
 
@@ -24,7 +24,7 @@
 	
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/XeroLinux)<br /><br />
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=flat)](https://youtube.com/@XeroLinux)
-[![Mastodon](https://img.shields.io/mastodon/follow/000305163?color=6666FF&domain=https%3A%2F%2Ffosstodon.org&label=Fosstodon&logo=mastodon&style=flat)](https://fosstodon.org/@XeroLinux)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/110753070148975710?domain=https%3A%2F%2Ffosstodon.org&style=flat&color=774DFF)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=flat)](https://discord.gg/Xg6T78ahtK)
 	
 </div>
