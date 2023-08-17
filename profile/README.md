@@ -14,7 +14,7 @@
 <div align="center">
 
 ## .:: XeroLinux needs your help & support. ::.
-## During the [Lebanon Economic / Electricity Crisis](https://www.hrw.org/news/2023/03/09/lebanon-electricity-crisis-exacerbates-poverty-inequality)
+## [The Lebanon Economic / Electricity Crisis](https://www.hrw.org/news/2023/03/09/lebanon-electricity-crisis-exacerbates-poverty-inequality)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=XeroLinux&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/XeroLinux)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=XeroLinux&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xerolinux)
 [![FundRazr](https://img.shields.io/static/v1?label=XeroLinux&message=FundRazr&color=ffffcc&style=for-the-badge&logo=Stripe)](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
