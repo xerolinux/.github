@@ -11,7 +11,7 @@
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div>
 
-<h2 align="center">XeroLinux needs your support </h2><br />
+<h2 align="center">XeroLinux needs your support </h2>
 
 <div align="center">
 	
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h1 align="center">.:: Connect with us on Social ::.</h1><br />
+<h2 align="center">.:: Connect with us on Social ::.</h2>
 
 <div align="center">
 	
