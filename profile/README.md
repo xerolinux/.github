@@ -11,11 +11,10 @@
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div>
 
-
-
 <h1 align="center">XeroLinux needs your support </h1><br />
 
 <div align="center">
+	
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=XeroLinux&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/XeroLinux)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=XeroLinux&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xerolinux)
 [![FundRazr](https://img.shields.io/static/v1?label=XeroLinux&message=FundRazr&color=ffffcc&style=for-the-badge&logo=Stripe)](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
@@ -28,6 +27,7 @@
 <h1 align="center">.:: Connect with us on Social ::.</h1><br />
 
 <div align="center">
+	
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@XeroLinux)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110753070148975710?domain=https%3A%2F%2Ffosstodon.org&style=palstic&label=Fosstodon&color=774DFF)](https://fosstodon.org/@XeroLinux)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=palstic)](https://discord.gg/Xg6T78ahtK)<br />
