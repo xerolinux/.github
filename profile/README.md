@@ -20,8 +20,9 @@
 [![FundRazr](https://img.shields.io/static/v1?label=XeroLinux&message=FundRazr&color=ffffcc&style=for-the-badge&logo=Stripe)](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
 # [Lebanon in Crisis](https://www.hrw.org/news/2023/03/09/lebanon-electricity-crisis-exacerbates-poverty-inequality)
 ![Crisi](https://i.imgur.com/q9DqtCX.jpeg)
-<br />
+</div><br />
 
+<div align="center">
 ## .:: Connect with us on Social ::. <br />
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@XeroLinux)
