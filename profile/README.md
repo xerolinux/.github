@@ -24,6 +24,8 @@
 [![FundRazr](https://img.shields.io/static/v1?label=XeroLinux&message=FundRazr&color=ffffcc&style=for-the-badge&logo=Stripe)](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
 </div>
 
+![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
+
 <div align="center">
 
 <h2 align="center">.:: Connect with us on Social ::.</h2>
@@ -34,7 +36,6 @@
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110753070148975710?domain=https%3A%2F%2Ffosstodon.org&style=palstic&label=Fosstodon&color=774DFF)](https://fosstodon.org/@XeroLinux)
 [![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=palstic)](https://discord.gg/Xg6T78ahtK)<br />
 
-![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
 </div>
 
 <div align="center">
