@@ -11,7 +11,8 @@
 	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div>
 
-<div align="center"># [.:: XeroLinux needs your support ::.](https://www.philstockworld.com/2023/10/21/hezbollah-alone-will-decide-whether-lebanon-%E2%88%92-already-on-the-brink-of-collapse-%E2%88%92-gets-dragged-into-israel-hamas-war/)
+<div align="center">
+	# [.:: XeroLinux needs your support ::.](https://www.philstockworld.com/2023/10/21/hezbollah-alone-will-decide-whether-lebanon-%E2%88%92-already-on-the-brink-of-collapse-%E2%88%92-gets-dragged-into-israel-hamas-war/)
 
 <div align="center">
 	
