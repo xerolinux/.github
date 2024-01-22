@@ -8,7 +8,6 @@
 
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
-	<a href="https://kde.org" target="_blank"><img src="https://img.shields.io/badge/DE-KDE%20Plasma-blue?style=for-the-badge&logo=KDE" /></a>
 </div>
 
 <div align="center">
