@@ -36,7 +36,7 @@
 	
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@XeroLinux)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110753070148975710?domain=https%3A%2F%2Ffosstodon.org&style=palstic&label=Fosstodon&color=774DFF)](https://fosstodon.org/@XeroLinux)
-[![Discord](https://img.shields.io/discord/783658529478803466?color=6699ff&label=Discord&logo=discord&style=palstic)](https://discord.gg/pBXubheqEk)<br />
+[![Discord](https://img.shields.io/discord/1196558590094356543?color=6699ff&label=Discord&logo=discord&style=palstic)](https://discord.gg/pBXubheqEk)<br />
 
 </div>
 
