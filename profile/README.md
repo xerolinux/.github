@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkXero-dev&theme=github_dark)
+![G33k](https://xerolinux.xyz/g33k.gif)
 
 </div>
 
