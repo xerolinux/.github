@@ -12,15 +12,14 @@
 
 <div align="center">
 	
-## [.:: XeroLinux needs your support ::.](https://www.philstockworld.com/2023/10/21/hezbollah-alone-will-decide-whether-lebanon-%E2%88%92-already-on-the-brink-of-collapse-%E2%88%92-gets-dragged-into-israel-hamas-war/)
+## [.:: XeroLinux needs your help ::.](https://blog.xerolinux.xyz/2024/06/new-gpu-cpu-fund/)
 
 </div>
 
 <div align="center">
 	
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=XeroLinux&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/XeroLinux)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=XeroLinux&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xerolinux)
-[![FundRazr](https://img.shields.io/static/v1?label=XeroLinux&message=FundRazr&color=ffffcc&style=for-the-badge&logo=Stripe)](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)</div>
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=XeroLinux&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xerolinux)</div>
 
 <div align="center">
 
