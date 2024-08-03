@@ -12,7 +12,7 @@
 
 <div align="center">
 	
-## [.:: XeroLinux needs your help ::.](https://blog.xerolinux.xyz/2024/06/new-gpu-cpu-fund/)
+## [.:: XeroLinux needs your help ::.](https://blogx.xerolinux.xyz/2024/06/new-gpu-cpu-fund/)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![G33k](https://xerolinux.xyz/g33k.gif)
+![G33k](https://i.imgur.com/lJTHs5Q.png)
 
 </div>
 
