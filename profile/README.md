@@ -12,7 +12,7 @@
 
 <div align="center">
 	
-## [.:: XeroLinux needs your help ::.](https://blogx.xerolinux.xyz/2024/06/new-gpu-cpu-fund/)
+## [.:: CPU & GPU Fund ::.](https://bytes.xerolinux.xyz/priv/new-gpu-cpu-fund/)
 
 </div>
 
