@@ -12,7 +12,7 @@
 
 <div align="center">
 	
-## [.:: CPU & GPU Fund ::.](https://bytes.xerolinux.xyz/priv/new-gpu-cpu-fund/)
+## [.:: Steve's War Fundraiser ::.](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
 
 </div>
 
