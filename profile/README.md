@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![G33k](https://i.imgur.com/lJTHs5Q.png)
+![G33k](https://i.imgur.com/KcSvm0V.png)
 
 </div>
 
