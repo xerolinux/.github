@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="900" height="310">
+  <defs>
+    <style>
+      .l1  { animation: pop 0s  0.1s both; opacity:0; }
+      .l2  { animation: pop 0s  0.4s both; opacity:0; }
+      .l3  { animation: pop 0s  0.7s both; opacity:0; }
+      .l4  { animation: pop 0s  1.0s both; opacity:0; }
+      .l5  { animation: pop 0s  1.3s both; opacity:0; }
+      .l6  { animation: pop 0s  1.6s both; opacity:0; }
+      .l7  { animation: pop 0s  1.9s both; opacity:0; }
+      .l8  { animation: pop 0s  2.2s both; opacity:0; }
+      .l9  { animation: pop 0s  2.5s both; opacity:0; }
+      .l10 { animation: pop 0s  2.8s both; opacity:0; }
+      .l11 { animation: pop 0s  3.1s both; opacity:0; }
+      .l12 { animation: pop 0s  3.4s both; opacity:0; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes pop   { to { opacity:1; } }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+  </defs>
+
+  <!-- Editor window background -->
+  <rect width="900" height="310" rx="8" fill="#0d1117"/>
+  <rect width="900" height="310" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="900" height="36" rx="8" fill="#161b22"/>
+  <rect y="24" width="900" height="12" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="6" fill="#e06c75"/>
+  <circle cx="42" cy="18" r="6" fill="#e5c07b"/>
+  <circle cx="62" cy="18" r="6" fill="#3fb950"/>
+
+  <!-- File tab -->
+  <rect x="84" y="6" width="148" height="24" rx="4" fill="#0d1117"/>
+  <text x="94" y="22" font-family="'Courier New',Courier,monospace" font-size="12"
+        fill="#8b949e">xerolinux.zsh</text>
+  <circle cx="224" cy="18" r="3" fill="#e5c07b"/>
+
+  <!-- Line number gutter -->
+  <rect x="0" y="36" width="46" height="274" fill="#0d1117"/>
+  <line x1="46" y1="36" x2="46" y2="310" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Active line highlight -->
+  <rect x="46" y="272" width="854" height="22" fill="#161b22" opacity="0.8"/>
+
+  <!-- === CODE LINES === -->
+  <!-- Char width ~7.8px at font-size 13. Content x starts at 58. -->
+
+  <!-- L1: #!/usr/bin/env zsh -->
+  <g class="l1">
+    <text x="22" y="57" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">1</text>
+    <text x="58" y="57" font-family="'Courier New',Courier,monospace" font-size="13" fill="#6e7681">#!/usr/bin/env zsh</text>
+  </g>
+
+  <!-- L2: blank -->
+  <text class="l2" x="22" y="79" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">2</text>
+
+  <!-- L3: # ============... -->
+  <g class="l3">
+    <text x="22" y="101" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">3</text>
+    <text x="58" y="101" font-family="'Courier New',Courier,monospace" font-size="13" fill="#3d444d"># ==============================================================</text>
+  </g>
+
+  <!-- L4: #   XeroLinux — Config Dump -->
+  <g class="l4">
+    <text x="22" y="123" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">4</text>
+    <text x="58" y="123" font-family="'Courier New',Courier,monospace" font-size="13" fill="#6e7681">#   </text>
+    <text x="90" y="123" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="700" fill="#f0f6fc">XeroLinux</text>
+    <text x="160" y="123" font-family="'Courier New',Courier,monospace" font-size="13" fill="#6e7681">  —  Config Dump  ·  KDE Plasma Rice  ·  Dotfiles</text>
+  </g>
+
+  <!-- L5: # ============... -->
+  <g class="l5">
+    <text x="22" y="145" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">5</text>
+    <text x="58" y="145" font-family="'Courier New',Courier,monospace" font-size="13" fill="#3d444d"># ==============================================================</text>
+  </g>
+
+  <!-- L6: blank -->
+  <text class="l6" x="22" y="167" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">6</text>
+
+  <!-- L7: export OS + DE -->
+  <g class="l7">
+    <text x="22" y="189" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">7</text>
+    <text x="58"  y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd">export </text>
+    <text x="106" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">OS</text>
+    <text x="122" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="130" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"Arch Linux x86_64"</text>
+    <text x="282" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">;</text>
+    <text x="300" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd"> export </text>
+    <text x="356" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">DE</text>
+    <text x="372" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="380" y="189" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"KDE Plasma 6"</text>
+  </g>
+
+  <!-- L8: export WM + DISPLAY -->
+  <g class="l8">
+    <text x="22" y="211" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">8</text>
+    <text x="58"  y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd">export </text>
+    <text x="106" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">WM</text>
+    <text x="122" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="130" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"KWin"</text>
+    <text x="180" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">;</text>
+    <text x="198" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd"> export </text>
+    <text x="254" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">DISPLAY</text>
+    <text x="310" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="318" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"Wayland"</text>
+    <text x="388" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">;</text>
+    <text x="406" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd"> export </text>
+    <text x="462" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">SHELL</text>
+    <text x="502" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="510" y="211" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"zsh"</text>
+  </g>
+
+  <!-- L9: export THEME + ICONS + PKG -->
+  <g class="l9">
+    <text x="22" y="233" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">9</text>
+    <text x="58"  y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd">export </text>
+    <text x="106" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">THEME</text>
+    <text x="146" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="154" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"Kvantum"</text>
+    <text x="224" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">;</text>
+    <text x="242" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd"> export </text>
+    <text x="298" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">ICONS</text>
+    <text x="338" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="346" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"Papirus"</text>
+    <text x="416" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">;</text>
+    <text x="434" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#c678dd"> export </text>
+    <text x="490" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#e06c75">PKG</text>
+    <text x="514" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#56b6c2">=</text>
+    <text x="522" y="233" font-family="'Courier New',Courier,monospace" font-size="13" fill="#98c379">"yay"</text>
+  </g>
+
+  <!-- L10: blank -->
+  <text class="l10" x="22" y="255" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">10</text>
+
+  <!-- L11: prompt (active line) -->
+  <g class="l11">
+    <text x="18" y="283" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="12" fill="#4b5263">11</text>
+    <text x="58" y="283" font-family="'Courier New',Courier,monospace" font-size="13" fill="#3fb950">xero@arch</text>
+    <text x="128" y="283" font-family="'Courier New',Courier,monospace" font-size="13" fill="#8b949e">:</text>
+    <text x="136" y="283" font-family="'Courier New',Courier,monospace" font-size="13" fill="#1d99f3">~</text>
+    <text x="148" y="283" font-family="'Courier New',Courier,monospace" font-size="13" fill="#8b949e">$</text>
+  </g>
+
+  <!-- Blinking cursor on active line -->
+  <rect class="cursor l11" x="162" y="270" width="8" height="15" fill="#f0f6fc" opacity="0.9"/>
+</svg>
