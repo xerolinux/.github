@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="./header.svg" width="100%" alt="XeroLinux"/>
+<img src="./xheader.svg" width="100%" alt="XeroLinux"/>
 
 <br/><br/>
 
