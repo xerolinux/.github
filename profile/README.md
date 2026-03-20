@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SYNTHWAVE HERO -->
-<img src="profile/xero-header.svg" width="100%" alt="XeroLinux"/>
+<img src="./xero-header.svg" width="100%" alt="XeroLinux"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 <div align="center">
 
 <!-- SPECS CARD -->
-<img src="profile/xero-specs.svg" width="860" alt="System Specs"/>
+<img src="./xero-specs.svg" width="860" alt="System Specs"/>
 
 </div>
 
