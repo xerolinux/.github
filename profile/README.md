@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="./xero-header.svg" width="100%" alt="XeroLinux"/>
+<img src="./header.svg" width="100%" alt="XeroLinux"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 <div align="center">
 
 <!-- CODE EDITOR SPECS CARD -->
-<img src="./xero-specs.svg" width="900" alt="xerolinux.zsh"/>
+<img src="./specs.svg" width="900" alt="xerolinux.zsh"/>
 
 </div>
 
