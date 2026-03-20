@@ -3,12 +3,7 @@
 <!-- HEADER -->
 <img src="./header.svg" width="100%" alt="XeroLinux"/>
 
-<br/>
-
-<!-- LOGO -->
-<img width="680" src="./xero.png" alt="XeroLinux Logo"/>
-
-<br/>
+<br/><br/>
 
 <!-- SYSTEM BADGES -->
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=e06c75&labelColor=0d1117"/></a>
@@ -64,7 +59,7 @@
 &nbsp;
 <a href="https://discord.gg/pBXubheqEk"><img src="https://img.shields.io/discord/1196558590094356543?style=for-the-badge&label=Discord&logo=discord&color=6699ff&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=xerolinux&label=Page+Views&color=1d99f3&style=for-the-badge"/>
