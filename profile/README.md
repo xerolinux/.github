@@ -26,14 +26,14 @@
 
 ---
 
-### 🚀 &nbsp; Projects @ XeroLinuxDev
+### 🚀 &nbsp; Projects @ XeroLinux
 
 <div align="center">
   <img src="./projects.svg" width="100%" alt="Projects"/>
   <br/><br/>
-  <a href="https://github.com/XeroLinuxDev/XeroBuild"><img src="https://img.shields.io/badge/XeroBuild-0d1117?style=for-the-badge&logo=github&logoColor=9d5cff"/></a>
+  <a href="https://github.com/XeroLinux/XeroBuild"><img src="https://img.shields.io/badge/XeroBuild-0d1117?style=for-the-badge&logo=github&logoColor=9d5cff"/></a>
   &nbsp;
-  <a href="https://github.com/XeroLinuxDev/desktop-config"><img src="https://img.shields.io/badge/desktop--config-0d1117?style=for-the-badge&logo=github&logoColor=c678dd"/></a>
+  <a href="https://github.com/XeroLinux/desktop-config"><img src="https://img.shields.io/badge/desktop--config-0d1117?style=for-the-badge&logo=github&logoColor=c678dd"/></a>
 </div>
 
 ---
