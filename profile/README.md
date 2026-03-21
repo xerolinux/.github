@@ -14,10 +14,14 @@
   <br/>
 
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,neovim,docker,githubactions,arch&theme=dark" alt="stack"/>
+</div>
 
-  <sup>&nbsp;</sup>
+---
 
-  <img src="https://komarev.com/ghpvc/?username=XeroLinux&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+### ⌨️ &nbsp; Git Cheatsheet
+
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="Git Commands Terminal"/>
 </div>
 
 ---
@@ -26,18 +30,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkxero-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff" width="100%"/>
-</div>
-
----
-
-### 🚀 &nbsp; Projects @ XeroLinux
-
-<div align="center">
-  <img src="./projects.svg" width="100%" alt="Projects"/>
-  <br/><br/>
-  <a href="https://github.com/XeroLinux/XeroBuild"><img src="https://img.shields.io/badge/XeroBuild-0d1117?style=for-the-badge&logo=github&logoColor=9d5cff"/></a>
-  &nbsp;
-  <a href="https://github.com/XeroLinux/desktop-config"><img src="https://img.shields.io/badge/desktop--config-0d1117?style=for-the-badge&logo=github&logoColor=c678dd"/></a>
 </div>
 
 ---
