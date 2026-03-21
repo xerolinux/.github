@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./xheader.svg" alt="avatar"/>
+  <img src="./zheader.svg" alt="avatar"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2500&color=6E40C9&center=true&vCenter=true&width=600&lines=Linux+Distribution+%26+Open+Source;Arch-Based+%7C+KDE+Plasma+Customized;Custom+tools+that+just+work.;Open+Source+%7C+Community+Driven;pkgbuild+%7C+bash+%7C+python+%7C+zsh" alt="Typing SVG"/>
 
