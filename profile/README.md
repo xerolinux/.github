@@ -14,6 +14,10 @@
   <br/>
 
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,neovim,docker,githubactions,arch&theme=dark" alt="stack"/>
+
+  <sup>&nbsp;</sup>
+
+  <img src="https://komarev.com/ghpvc/?username=XeroLinux&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
